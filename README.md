@@ -12,4 +12,4 @@
  - How to align game/application to reference images into auto split
  - load the first image
 
-## Please live feedback since this only beta testing currently
+## Please give feedback since this only beta testing currently
