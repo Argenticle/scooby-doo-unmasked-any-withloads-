@@ -15,3 +15,7 @@
 ## 2. The images are not tracking?
 ### - Do you have plex or iris (both these softwares change brightness and the colors of the screen)? 
 - You have to turn them off when using Auto Split (Since this software compares images)
+### - Other
++ click select window
++ align region
++ select loading screen (the game must match this screem)
