@@ -177,3 +177,5 @@ The settings are per image folder (If want to autoload since setting save images
 *Make sure do this step otherwise you will have to link it each time
 
 ![Click "Save Layout As..."](steps-how_to_setup_livesplit_for_autosplit/step-27.png)
+
+If this is your first time time using autosplit then go to [How to setup AutoSplit.md](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20setup%20AutoSplit.md)
