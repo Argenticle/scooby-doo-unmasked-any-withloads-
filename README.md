@@ -31,7 +31,7 @@
 *   Add Image Folder
     
     *   Select Folder extracted = [Images for Autosplits](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/releases)
-    *   \[more detailed steps 11 - 13\](Images for Autosplits)
+    *   [more detailed steps 11 - 13](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md#11-click-components--)
     
 *   Align Screen/Image
     *   [more detailed steps 14- 19](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20setup%20AutoSplit.md#14-click-select-window--)
