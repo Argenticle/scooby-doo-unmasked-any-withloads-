@@ -1,4 +1,4 @@
-# Autosplitter Of Scooby Doo Unmasked - Any % withloads
+## Autosplitter Of Scooby Doo Unmasked - Any % withloads
 
 ## Simple Guide to Download
 
@@ -29,8 +29,10 @@
     *   Hotkey Settings = Must match your live split hotkeys
     *   [More detailed steps 8 - 10](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md#12-open-livesplit--)
 *   Add Image Folder
+    
     *   Select Folder extracted = [Images for Autosplits](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/releases)
-    *   [more detailed steps 11 - 13](Images for Autosplits) 
+    *   \[more detailed steps 11 - 13\](Images for Autosplits)
+    
 *   Align Screen/Image
     *   [more detailed steps 14- 19](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20setup%20AutoSplit.md#14-click-select-window--)
     *   **MUST BE IN THIS ORDER**
@@ -40,19 +42,20 @@
 *   SAVE PROFILE
 
 ---
-**Full Guides 
 
-***[How to Setup LiveSplit for AutoSplit.md](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md)**
+### Full Guides
 
- - Shows how to download auto split
- - Add auto split competent to live split
- - link autosplit to live split
+#### [**How to Setup LiveSplit for AutoSplit.md**](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md)
 
-***[How to setup AutoSplit.md](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20setup%20AutoSplit.md)**
+*   Shows how to download auto split
+*   Add auto split competent to live split
+*   link autosplit to live split
 
- - Make sure keybinds in autosplit match live split
- - How to add reference images
- - How to align game/application to reference images into auto split
- - load the first image
+#### [How to setup AutoSplit.md](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20setup%20AutoSplit.md)
+
+*   Make sure keybinds in autosplit match live split
+*   How to add reference images
+*   How to align game/application to reference images into auto split
+*   load the first image
 
 ## Please give feedback since this only beta testing currently
