@@ -4,8 +4,8 @@
 
 ### Downloads
 
-*   [Autosplit 2 - 6](https://github.com/Toufool/AutoSplit/releases)
-    *   [More detailed steps](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md#2-click-newest-release--) 
+*   [Autosplit](https://github.com/Toufool/AutoSplit/releases)
+    *   [More detailed steps 2 - 6](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md#2-click-newest-release--) 
 *   [Autosplit Component](https://github.com/Toufool/AutoSplit?tab=readme-ov-file#livesplit-integration-tutorial)
     *   [More detailed steps 7 - 11](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md#7-download-autosplit-compentent-for-livesplit--)
         1.  Click **“here”** 
