@@ -4,8 +4,8 @@
 
 ### Downloads
 
-*   [Autosplit](https://github.com/Toufool/AutoSplit/releases)
-    *   [More detailed steps](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md#2-click-newest-release--) 2 - 6
+*   [Autosplit 2 - 6](https://github.com/Toufool/AutoSplit/releases)
+    *   [More detailed steps](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md#2-click-newest-release--) 
 *   [Autosplit Component](https://github.com/Toufool/AutoSplit?tab=readme-ov-file#livesplit-integration-tutorial)
     *   [More detailed steps 7 - 11](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md#7-download-autosplit-compentent-for-livesplit--)
         1.  Click **“here”** 
@@ -18,9 +18,8 @@
     *   [More steps 12 - 17](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md#12-open-livesplit--)
 *   Autosplit settings 
     *   [More steps 18 - 27](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md#18-click-layout-settings--)
-        1.  Go to autosplit folder
-        2.  1st browse = Autosplit.exe
-        3.  2nd browse = settings.toml
+        1.  Settings browse = settings.toml = hint: go to autosplit folder
+        2.  Autosplit browse = Autosplit.exe = hint: go to autosplit folder
 *   SAVE LAYOUT
 
 ### Setup AutoSplit
