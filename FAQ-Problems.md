@@ -19,3 +19,6 @@
 + click select window
 + align region
 + select loading screen (the game must match this screem)
+
+## 3. The align region, zooms into the image to much
++ dolpin must be in 4:3 ratio
