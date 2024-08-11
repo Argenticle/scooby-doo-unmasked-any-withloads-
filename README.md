@@ -15,42 +15,52 @@
 ### Setup Livesplit
 
 *   Add component
-    *   [More steps 12 - 17](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md#12-open-livesplit--)
+    *   [More steps 6 - 8](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/2=Setup-LiveSplit-for-Autosplit#6-click-)
 *   Autosplit settings 
-    *   [More steps 18 - 27](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md#18-click-layout-settings--)
+    *   [More steps 9 - 18](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/2=Setup-LiveSplit-for-Autosplit#9-double-click-autosplit-integration)
         1.  Settings browse = settings.toml = hint: go to autosplit folder
         2.  Autosplit browse = Autosplit.exe = hint: go to autosplit folder
 *   SAVE LAYOUT
+   *  [More Steps 19 - 22](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/2=Setup-LiveSplit-for-Autosplit#19-right-click-livesplit)
 
 ### Setup AutoSplit
 
 *   Settings
     *   Hotkey Settings = Must match your live split hotkeys
-    *   [More detailed steps 8 - 10](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md#12-open-livesplit--)
+    *   [More detailed steps 2 - 5](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/3=Setup-Autosplit#2-click-right-untill-you-see-hotkeys)
 *   Add Image Folder
     
     *   Select Folder extracted = [Images for Autosplits](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/releases)
-    *   [more detailed steps 11 - 13](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md#11-click-components--)
+    *   [more detailed steps 6 - 7](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/3=Setup-Autosplit#6-click-scooby-doounmasked-to-images-you-download)
     
 *   Align Screen/Image
-    *   [more detailed steps 14- 19](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20setup%20AutoSplit.md#14-click-select-window--)
+    *   [more detailed steps 8 - 24](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/3=Setup-Autosplit#8-double-click-dolphin)
     *   **MUST BE IN THIS ORDER**
-        1.  Select Window = Select Application game open in
-        2.  Align Region = Select AlignRegion when you are on the start screen
-        3.  Reload start image
+        1. Open dolphin
+        2. make sure dolphin force 4:3
+        3.  Select Window = Select Application game open in
+        4.  Align Region = Select AlignRegion when you are on the start screen
+        5.  Reload start image
 *   SAVE PROFILE
 
 ---
 
 ### Full Guides
 
-#### [**How to Setup LiveSplit for AutoSplit.md**](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20Setup%20LiveSplit%20for%20AutoSplit.md)
+### [**1= Download Guide for First‐Initial LiveSplit‐AutoSplit‐Reference Images for AutoSplit**] (https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/1=-Download-Guide-for-First%E2%80%90Initial-LiveSplit%E2%80%90AutoSplit%E2%80%90Reference-Images-for-AutoSplit)
 
-*   Shows how to download auto split
+* How to download livesplit
+* How to download autosplit
+* how to download autosplit comptent for livesplit
+* How to download reference images
+
+#### [**How to Setup LiveSplit for AutoSplit.md**](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/2=Setup-LiveSplit-for-Autosplit)
+
 *   Add auto split competent to live split
 *   link autosplit to live split
+*   set hotkeys to livesplit
 
-#### [How to setup AutoSplit.md](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/blob/main/How%20to%20setup%20AutoSplit.md)
+#### [How to setup AutoSplit.md](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/3=Setup-Autosplit)
 
 *   Make sure keybinds in autosplit match live split
 *   How to add reference images
