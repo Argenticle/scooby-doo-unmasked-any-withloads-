@@ -19,7 +19,7 @@
         1.  Settings browse = settings.toml = hint: go to autosplit folder
         2.  Autosplit browse = Autosplit.exe = hint: go to autosplit folder
 *   SAVE LAYOUT
-   *  [More Steps 19 - 22](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/2=Setup-LiveSplit-for-Autosplit#19-right-click-livesplit)
+      *  [More Steps 19 - 22](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/2=Setup-LiveSplit-for-Autosplit#19-right-click-livesplit)
 
 ### Setup AutoSplit
 
