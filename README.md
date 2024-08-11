@@ -5,7 +5,7 @@
 ### Downloads
 
 *   [Autosplit](https://github.com/Toufool/AutoSplit/releases)
-    *   [More detailed steps 5 - 9](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/1-Download-Guide-for-First%E2%80%90Inital-LiveSplit%E2%80%90AutoSplit%E2%80%90Reference-Images-for-AutoSplit#5-go-autosplit-download) 
+    *   [More detailed steps 5 - 9](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/1)-Download-Guide-for-First‐Inital-LiveSplit‐AutoSplit‐Reference-Images-for-AutoSplit#5-go-autosplit-downloa) 
 *   [Autosplit Component](https://github.com/Toufool/AutoSplit?tab=readme-ov-file#livesplit-integration-tutorial)
     *   [More detailed steps 10 - 15](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/1-Download-Guide-for-First‐Inital-LiveSplit‐AutoSplit‐Reference-Images-for-AutoSplit#5-go-autosplit-downloa)
         1.  Click **“here”** 
