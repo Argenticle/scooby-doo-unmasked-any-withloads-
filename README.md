@@ -1,6 +1,4 @@
-## Autosplitter Of Scooby Doo Unmasked - Any % withloads
-
-## Simple Guide to Download
+## Short Guides to Download and Setup
 
 ### Downloads
 
