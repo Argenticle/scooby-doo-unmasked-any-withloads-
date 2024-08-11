@@ -34,7 +34,7 @@
     *   [more detailed steps 6 - 7](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/3=Setup-Autosplit#6-click-scooby-doounmasked-to-images-you-download)
     
 *   Align Screen/Image
-    *   [more detailed steps 8 - 24](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/3=Setup-Autosplit#8-double-click-dolphin)
+    *   [more detailed steps 8 - 22](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/3=Setup-Autosplit#8-double-click-dolphin)
     *   **MUST BE IN THIS ORDER**
         1. Open dolphin
         2. make sure dolphin force 4:3
