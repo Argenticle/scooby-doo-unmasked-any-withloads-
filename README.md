@@ -47,20 +47,20 @@
 
 ### Full Guides
 
-### [**1= Download Guide for First‐Initial LiveSplit‐AutoSplit‐Reference Images for AutoSplit**] (https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/1=-Download-Guide-for-First%E2%80%90Initial-LiveSplit%E2%80%90AutoSplit%E2%80%90Reference-Images-for-AutoSplit)
+#### [**Download Guide for First‐Initial LiveSplit‐AutoSplit‐Reference Images for AutoSplit**](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/1=-Download-Guide-for-First%E2%80%90Initial-LiveSplit%E2%80%90AutoSplit%E2%80%90Reference-Images-for-AutoSplit)
 
 * How to download livesplit
 * How to download autosplit
 * how to download autosplit comptent for livesplit
 * How to download reference images
 
-#### [**How to Setup LiveSplit for AutoSplit.md**](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/2=Setup-LiveSplit-for-Autosplit)
+#### [**How to Setup LiveSplit for AutoSplit**](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/2=Setup-LiveSplit-for-Autosplit)
 
 *   Add auto split competent to live split
 *   link autosplit to live split
 *   set hotkeys to livesplit
 
-#### [How to setup AutoSplit.md](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/3=Setup-Autosplit)
+#### [How to setup AutoSplit](https://github.com/Argenticle/scooby-doo-unmasked-any-withloads-/wiki/3=Setup-Autosplit)
 
 *   Make sure keybinds in autosplit match live split
 *   How to add reference images
